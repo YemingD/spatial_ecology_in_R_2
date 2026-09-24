@@ -12,3 +12,4 @@ We use:
 - Uncertainty analysis
 
 **Main result:** reconstruction accuracy improved.
+![image](images/04.jpg)
